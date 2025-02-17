@@ -1,16 +1,22 @@
-# INET4031 - Module 6 - Working with Remote Systems
+# Lightbulb Controller Webpage  
 
-## Instructions, files, code for Lab 6.
+This is a simple interactive webpage where users can turn a lightbulb on and off using JavaScript.  
 
-What if you aren't nearby the computer you need to work on?
+## Features  
+- Click a button to turn the light on and off.  
+- Uses JavaScript to dynamically change the image.  
+- Updated background color and styled buttons for a better user experience.  
 
-Up until this point, our Lab activities have been accomplished by doing them on our laptops.
+## How to Use  
+1. Open `webpagewithjs.html` in a browser.  
+2. Click the **"Turn On"** button to light up the bulb.  
+3. Click the **"Turn Off"** button to switch it off.  
 
-In this activity we explore the concept of "servers."  Which typically aren't located where we are.
+## Repository Purpose  
+This repository is part of the **INET 4031 Lab 4 Website Project**, demonstrating basic HTML, CSS, and JavaScript interactions.  
 
-We have to connect to them remotely
-
-This Lab explores that concept.
+## Author  
+Ayub Mohamud
 
 
 
